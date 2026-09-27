@@ -21,15 +21,25 @@ Integrar dos datasets de fuentes distintas
       Realizar análisis descriptivo y estadístico
       Crear un dashboard que aporte valor al análisis
       
-## ⚙️ Herramientas
+## ⚙️ Herramientas:
 
-## 📂 Estructura del Repositorio
+ - Se requiere que este instalado:
+     Python 3.14
+     VSC
+     Excel
+- Se requieren distintas librerias
+     Pandas 
+     Seaborn 
+     Matplotlib
+     Stat
+     Scipy.stats
 
-📁 /data/
-     Datos_Fuente (Booking) – Fuente: Kaggle - hotel_booking.csv
-               (World Bank) – Fuente: Banco Mundial - API_ST.INT.ARVL_DS2_en_csv_v2_346201 Importe Este
-                                                      Metadata_Country_API_ST.INT.ARVL_DS2_en_csv_v2_346201
-     Datos_Limpios - Proyecto_Final_Datos_Limpios.csv
+## Distribución de las car
+
+📁 /Datos_Fuente (Booking) – Fuente: Kaggle - hotel_booking.csv
+                  (World Bank) – Fuente: Banco Mundial - API_ST.INT.ARVL_DS2_en_csv_v2_346201 Importe Este
+                                                      
+📁 /Datos_Limpios - Proyecto_Final_Datos_Limpios.csv
                    - Proyecto_Final_Datos_Limpios.xlsx            
 📁 /notebooks/
 
@@ -40,12 +50,12 @@ Integrar dos datasets de fuentes distintas
 📁 /dashboard/
     Dashboard_Final.xlsx
     
-📁 /informes/
+📁 /Informes/
 
- Informe Notebook 1.docx
- Informe Notebook 2.docx
- Informe Notebook 3.docx
- Informe Notebook 4.docx    
+  Notebook 1 Informe Limpieza.docx
+  Notebook 2 Informe Descriptivo.docx
+  Notebook 3 Informe Estadístico.docx
+  Notebook 4 Recomendacio1n y Conclusión.docx    
 
 
 
