@@ -12,7 +12,7 @@ El proyecto incluye:
      Dashboard Opertaivo
      Informes explicativos
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto:
 
 Integrar dos datasets de fuentes distintas
 
@@ -34,7 +34,7 @@ Integrar dos datasets de fuentes distintas
      Stat
      Scipy.stats
 
-## Distribución de las car
+## 📂 Estructura del Repositorio:
 
 📁 /Datos_Fuente (Booking) – Fuente: Kaggle - hotel_booking.csv
                   (World Bank) – Fuente: Banco Mundial - API_ST.INT.ARVL_DS2_en_csv_v2_346201 Importe Este
@@ -60,4 +60,4 @@ Integrar dos datasets de fuentes distintas
 
 
 
- 👤 Autor
+ ## 👤 Autor: Galis S.M.
